@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(180deg, #0f0f0f, #1a1a1a);
+    color: #7a2e3a;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    text-align: center;
+    padding-top: 70px;
+}
+
+img {
+    width: 280px;
+    border-radius: 16px;
+    margin-bottom: 25px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+}
+
+audio {
+    margin-top: 10px;
+    width: 260px;
+}
+
+p {
+    margin-top: 30px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    opacity: 0.75;
+}
